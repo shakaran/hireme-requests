@@ -1,9 +1,9 @@
 # hireme-requests
-Do you like my work? I am a Senior Backend Freelancer, you can hire me, open a issue for contact me!
+Do you like my work? I am a Senior Backend Freelancer & Syadmin, you can hire me, open a issue for contact me!
 
 Additionally you could be interested in check or hire me through my [Upwork profile](https://www.upwork.com/fl/angelguzmanmaeso#/)
 
-So far until I am writing this lines, around 140 jobs performed in last 2 years (only via Upwork). You can check the public feedback and portofolio.
+So far until I am writing this lines, around 150 jobs performed in last 2 years (only via Upwork). You can check the public feedback and portfolio.
 
 I also have available an[ Agency called "Quijost" in Upwork](https://www.upwork.com/agencies/~01e2bf90f3bee0bd9f) working with more freelancers (for big projects where you need more work force)
 
